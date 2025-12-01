@@ -1,0 +1,17 @@
+# Compiled files
+*.o
+*.out
+*.exe
+bubble
+test*
+
+# Test files
+0-main.c
+1-main.c
+2-main.c
+3-main.c
+
+# Temporary files
+*~
+.*.swp
+.DS_Store
